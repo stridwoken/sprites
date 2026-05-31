@@ -1,0 +1,445 @@
+{
+  "group_id": "719abd76-eda9-46ae-a5b8-92c907d9ed32",
+  "states": [
+    {
+      "character": {
+        "id": "106f56a2-5fa9-49fc-8822-d951510448b3",
+        "name": "Solo Leveling protagonist, Sung Jin-Woo,",
+        "prompt": "Solo Leveling protagonist, Sung Jin-Woo, young male, sharp jawline, black hair swept back, glowing icy blue eyes, dark fitted long coat with high collar, black combat pants, sleek tactical boots, confident stoic expression, hands in pockets, pixel art sprite, top-down RPG character, low top-down view, 48x48, Pokemon HeartGold style, limited 16-color palette, crisp hard edges, no dithering, transparent background, 8-directional rotation, idle pose",
+        "size": {
+          "width": 88,
+          "height": 88
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-20T12:22:31.137539+00:00"
+      },
+      "folder": "Solo_Leveling_protagonist_Sung_Jin-Woo",
+      "frames": {
+        "rotations": {
+          "south": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/south.png",
+          "south-east": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/south-east.png",
+          "east": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/east.png",
+          "north-east": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/north-east.png",
+          "north": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/north.png",
+          "north-west": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/north-west.png",
+          "west": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/west.png",
+          "south-west": "Solo_Leveling_protagonist_Sung_Jin-Woo/rotations/south-west.png"
+        },
+        "animations": {
+          "The_character_leans_forward_into_a_sharp_agile_spr-499159af": {
+            "south": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south/frame_008.png"
+            ],
+            "north": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north/frame_008.png"
+            ],
+            "west": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/west/frame_008.png"
+            ],
+            "east": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/east/frame_008.png"
+            ],
+            "south-east": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-east/frame_008.png"
+            ],
+            "south-west": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/south-west/frame_008.png"
+            ],
+            "north-west": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_000.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_001.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_002.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_003.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_004.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_005.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_006.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_007.png",
+              "Solo_Leveling_protagonist_Sung_Jin-Woo/animations/The_character_leans_forward_into_a_sharp_agile_spr-499159af/north-east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "88915650-5849-4124-ba8d-02bdbac46067",
+        "name": "sword swing first hi",
+        "prompt": "Solo Leveling protagonist, Sung Jin-Woo, young male, sharp jawline, black hair swept back, glowing icy blue eyes, dark fitted long coat with high collar, black combat pants, sleek tactical boots, confident stoic expression, hands in pockets, pixel art sprite, top-down RPG character, low top-down view, 48x48, Pokemon HeartGold style, limited 16-color palette, crisp hard edges, no dithering, transparent background, 8-directional rotation, idle pose",
+        "size": {
+          "width": 88,
+          "height": 88
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-27T11:21:33.112413+00:00"
+      },
+      "folder": "sword_swing_first_hi",
+      "frames": {
+        "rotations": {
+          "south": "sword_swing_first_hi/rotations/south.png",
+          "south-east": "sword_swing_first_hi/rotations/south-east.png",
+          "east": "sword_swing_first_hi/rotations/east.png",
+          "north-east": "sword_swing_first_hi/rotations/north-east.png",
+          "north": "sword_swing_first_hi/rotations/north.png",
+          "north-west": "sword_swing_first_hi/rotations/north-west.png",
+          "west": "sword_swing_first_hi/rotations/west.png",
+          "south-west": "sword_swing_first_hi/rotations/south-west.png"
+        },
+        "animations": {
+          "The_character_lunges_forward_thrusting_their_right-fed720b8": {
+            "north-west": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north-east/frame_008.png"
+            ],
+            "north": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/north/frame_008.png"
+            ],
+            "south": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south/frame_008.png"
+            ],
+            "east": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/east/frame_008.png"
+            ],
+            "west": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/west/frame_008.png"
+            ],
+            "south-west": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-west/frame_008.png"
+            ],
+            "south-east": [
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_000.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_001.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_002.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_003.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_004.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_005.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_006.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_007.png",
+              "sword_swing_first_hi/animations/The_character_lunges_forward_thrusting_their_right-fed720b8/south-east/frame_008.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "ce2f44a1-f7b2-4e83-9f36-7146f0c6cf94",
+        "name": "Standing alert, brea",
+        "prompt": "Solo Leveling protagonist, Sung Jin-Woo, young male, sharp jawline, black hair swept back, glowing icy blue eyes, dark fitted long coat with high collar, black combat pants, sleek tactical boots, confident stoic expression, hands in pockets, pixel art sprite, top-down RPG character, low top-down view, 48x48, Pokemon HeartGold style, limited 16-color palette, crisp hard edges, no dithering, transparent background, 8-directional rotation, idle pose",
+        "size": {
+          "width": 88,
+          "height": 88
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-27T11:53:34.189646+00:00"
+      },
+      "folder": "Standing_alert_brea",
+      "frames": {
+        "rotations": {
+          "south": "Standing_alert_brea/rotations/south.png",
+          "south-east": "Standing_alert_brea/rotations/south-east.png",
+          "east": "Standing_alert_brea/rotations/east.png",
+          "north-east": "Standing_alert_brea/rotations/north-east.png",
+          "north": "Standing_alert_brea/rotations/north.png",
+          "north-west": "Standing_alert_brea/rotations/north-west.png",
+          "west": "Standing_alert_brea/rotations/west.png",
+          "south-west": "Standing_alert_brea/rotations/south-west.png"
+        },
+        "animations": {
+          "Breathing_Idle-ad06f7dc": {
+            "north-east": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-east/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-east/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-east/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-east/frame_003.png"
+            ],
+            "south-east": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-east/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-east/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-east/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-east/frame_003.png"
+            ],
+            "west": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/west/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/west/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/west/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/west/frame_003.png"
+            ],
+            "south": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south/frame_003.png"
+            ],
+            "north": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north/frame_003.png"
+            ],
+            "south-west": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-west/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-west/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-west/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/south-west/frame_003.png"
+            ],
+            "north-west": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-west/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-west/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-west/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/north-west/frame_003.png"
+            ],
+            "east": [
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/east/frame_000.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/east/frame_001.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/east/frame_002.png",
+              "Standing_alert_brea/animations/Breathing_Idle-ad06f7dc/east/frame_003.png"
+            ]
+          }
+        }
+      }
+    },
+    {
+      "character": {
+        "id": "504865b1-7635-484e-9a75-0110d2097038",
+        "name": "Performing a high-sp",
+        "prompt": "Solo Leveling protagonist, Sung Jin-Woo, young male, sharp jawline, black hair swept back, glowing icy blue eyes, dark fitted long coat with high collar, black combat pants, sleek tactical boots, confident stoic expression, hands in pockets, pixel art sprite, top-down RPG character, low top-down view, 48x48, Pokemon HeartGold style, limited 16-color palette, crisp hard edges, no dithering, transparent background, 8-directional rotation, idle pose",
+        "size": {
+          "width": 88,
+          "height": 88
+        },
+        "template_id": "mannequin",
+        "directions": 8,
+        "view": "low top-down",
+        "created_at": "2026-05-31T19:06:41.048635+00:00"
+      },
+      "folder": "Performing_a_high-sp",
+      "frames": {
+        "rotations": {
+          "south": "Performing_a_high-sp/rotations/south.png",
+          "south-east": "Performing_a_high-sp/rotations/south-east.png",
+          "east": "Performing_a_high-sp/rotations/east.png",
+          "north-east": "Performing_a_high-sp/rotations/north-east.png",
+          "north": "Performing_a_high-sp/rotations/north.png",
+          "north-west": "Performing_a_high-sp/rotations/north-west.png",
+          "west": "Performing_a_high-sp/rotations/west.png",
+          "south-west": "Performing_a_high-sp/rotations/south-west.png"
+        },
+        "animations": {
+          "Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004": {
+            "south": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south/frame_008.png"
+            ],
+            "north": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north/frame_008.png"
+            ],
+            "north-west": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-west/frame_008.png"
+            ],
+            "north-east": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/north-east/frame_008.png"
+            ],
+            "west": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/west/frame_008.png"
+            ],
+            "east": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_007.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/east/frame_008.png"
+            ],
+            "south-west": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-west/frame_007.png"
+            ],
+            "south-east": [
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_000.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_001.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_002.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_003.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_004.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_005.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_006.png",
+              "Performing_a_high-sp/animations/Fast_dash_forward_with_sudden_explosive_speed._The-a4e74004/south-east/frame_007.png"
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "export_version": "3.0",
+  "export_date": "2026-05-31T20:33:50.691050"
+}
